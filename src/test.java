@@ -36,7 +36,7 @@ public class test {
 				
 
 			} else if (choice.equals("3")) {
-				System.out.println("Enter a word");
+				System.out.println("Enter a word123");
 				String word = input.next();
 				addToTrie(word);
 			
